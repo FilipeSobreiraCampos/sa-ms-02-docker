@@ -1,2 +1,1 @@
-# Usa a imagem oficial do Ubuntu como base
-FROM ubuntu:20.04
+FROM ligero/ligerosmart:6.1-nginx
